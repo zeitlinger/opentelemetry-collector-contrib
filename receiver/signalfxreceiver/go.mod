@@ -12,7 +12,7 @@ require (
 	go.opencensus.io v0.22.4
 	go.opentelemetry.io/collector v0.10.1-0.20200917170114-639b9a80ed46
 	go.uber.org/zap v1.16.0
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.28.1
 )
 
 replace github.com/open-telemetry/opentelemetry-collector-contrib/exporter/signalfxexporter => ../../exporter/signalfxexporter
